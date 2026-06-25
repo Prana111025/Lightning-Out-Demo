@@ -30,3 +30,4 @@ Then run `npm start`, it will start the server
 
 ### Step 5
 Navigate to `https://localhost:8081/` in your browser and you would see **Lightning Out** in Action
+End
